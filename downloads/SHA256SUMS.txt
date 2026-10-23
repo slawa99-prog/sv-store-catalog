@@ -1,0 +1,2 @@
+a0df7ef47962bfb252de637ddb6236e14ed8cf975f56340e7a19ca31cadd4877  SV-Store-0.4.1.apk
+09f227be16d195eda2a29abccfd132ca5eff909bf753c3b78f1e6ac8dd23987e  SV-Admin-0.2.0.apk
